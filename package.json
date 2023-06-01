@@ -9,6 +9,9 @@
     "hardhat": "^2.10.1"
   },
   "dependencies": {
-    "@thirdweb-dev/contracts": "^3"
+    "-": "^0.0.1",
+    "@thirdweb-dev/contracts": "^3",
+    "g": "^2.0.1",
+    "vercel": "^30.0.0"
   }
 }
